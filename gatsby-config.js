@@ -20,7 +20,7 @@ module.exports = {
       options: {
         typeName: "SilverStripe",
         fieldName: "silverstripe",
-        url: "http://caterpie.vagrant/graphql",
+        url: "http://broke-teir.herokuapp.com/graphql",
         headers: {
           Authorization: `Basic YWRtaW46cGFzc3dvcmQ=`,
         },
